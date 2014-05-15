@@ -6,7 +6,7 @@
 2. under the repositories tab, click 'NEW'
 3. add a repo name, description, make it public, and initialize the repo with a README
 4. go to your terminal, navigate to your desired path (cd dbc/phase_0) to download the contents of the repo
-5. while still in the terminal, type 'git clone REPO_URL. This will copy the contents of REPO_URL into your dbc/phase_0 folder.
+5. while still in the terminal, type git clone REPO_URL. This will copy the contents of REPO_URL into your dbc/phase_0 folder.
 
 * Describe what open source means
 
