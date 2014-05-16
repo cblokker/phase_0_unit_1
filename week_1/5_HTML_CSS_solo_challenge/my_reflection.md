@@ -14,7 +14,7 @@ Absolute vs relative positioning is a bit tricky.
 
 I learned about spans :)
 
-I'm able to position HTML elements using CSS padding, borders, and margins.  It get's a little complicated when there's a lot of divs, but I think that's what wireframing is for.  I used HTML tags like <br>, <a>, <span>, and <div>.  I'm sure there's a lot more.
+I'm able to position HTML elements using CSS padding, borders, and margins.  It get's a little complicated when there's a lot of divs, but I think that's what wireframing is for.  I used HTML tags like br, a, span, and div.  I'm sure there's a lot more.
 
 I had fun playing with the CSS and seeing how I can make the page look different.
 
