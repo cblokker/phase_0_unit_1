@@ -11,3 +11,12 @@
 * Which parts of the challenge did you find tedious?
 
 <!-- Add your reflection here. Remove the comment markers -->
+I learned that lots of websites use a basic head, body, footer layout.  From there, customization can be done for uniqueness.
+
+I generally like design and user experience.  It's hard to grasp what makes a good user experience sometimes - a bit of an abstract concept.
+
+I like the wireframe tool balsamiq!  It's makes it fairly easy to wireframe.
+
+I enjoyed seeing design aspects of the website I didn't see after doing the wireframe.  Very helpful.
+
+Just going about the wireframing process and deciding how much detail I want in the wireframes.
