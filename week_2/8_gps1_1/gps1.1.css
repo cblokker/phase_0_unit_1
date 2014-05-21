@@ -1,1 +1,42 @@
 /* include your css here */
+            body {
+                margin: 0px;
+                padding: 0px;
+            }
+            
+            header {
+                border-bottom: 1px solid;
+                text-align: center;
+                background: #485;
+                margin: -20px;
+            }
+            
+            h1 {
+                font-family: 'Indie Flower', cursive;
+            }
+            
+            section {
+                padding: 30px;
+                background: #898;
+            }
+            
+            footer {
+                background: #987;
+                padding: 20px;
+                text-align: center;
+            }
+            
+            li {
+                font-family: 'Josefin Sans', sans-serif;
+            }
+            
+            #emotional {
+                float: left;
+                width: 300px;
+                height: 300px;
+                
+            }
+            
+            #technical {
+                height: 300px;
+            }
