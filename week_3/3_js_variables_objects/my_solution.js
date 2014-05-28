@@ -3,13 +3,6 @@
 // __________________________________________
 // Write your code below.
 
-
-
-
-
-
-
-
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
 // 
