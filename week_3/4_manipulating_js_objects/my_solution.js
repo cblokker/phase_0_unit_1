@@ -17,21 +17,41 @@ var terah = {
 // __________________________________________
 // Write your code below.
 
+var adam = {
+  name: "Adam"
+};
 
+terah.spouse = adam;
+terah.weight = 125;
+delete terah.eyeColor;
+adam.spouse = terah;
+terah.children = {
+  carson : {name: "Carson"},
+  carter : {name: "Carter"},
+  colton : {name: "Colton"}
+};
 
-
+adam.children = terah.children
 
 
 
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
-// 
-// 
-// 
-// 
-// 
-// 
+// My strategy was to read what I needed to accomplish, that was pretty much my pseudocode
+// After that, I went ahead and tried to pass each test one by one.  Once I've realized
+// what the problem was asking me to do, I'd go ahead and attempt to pass the test.
+// If there was a syntax error, I'd do the necessary google search to bring me to stack exchange.
+// This process worked!
+//
+// I had questions about the syntax (mainly for the sub objects), but I figured it out.
+//
+// I think I understand this pretty well, I've been exposed to javascript objects before :)
+//
+// Everything here I've done before, I'd just forgotten some syntactical things.
+//
+// I enjoyed the whole challenge, and it wasn't very tedious :)
+
 
 
 // __________________________________________
