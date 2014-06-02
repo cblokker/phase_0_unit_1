@@ -1,16 +1,18 @@
-// I paired [by myself, with:] on this challenge.
+// I paired by myself on this challenge.
 
 // __________________________________________
 // Write your code below.
 
+var secretNumber = 7,
+    password = "just open the door",
+    allowedIn = false,
+    members = ["John", 2, 3, "Mary"];
+
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
-// 
-// 
-// 
-// 
-// 
-// 
+// Yay!  I did it!  I tried to pair on this challenge, but had a hard time setting up time to do so :(
+// I know, I'm supposed to pair at least 4 times this unit, and I didn't do that.  I'll try to do so in the future,
+// and I realize it's a very important skill to learn - I've loved the GPS's though and find them VERY beneficial!
 
 
 // __________________________________________
